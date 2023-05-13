@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/arapey</item>
+        <item>@font/chakra_petch</item>
+        <item>@font/playfair_display_bold_italic</item>
+        <item>@font/sarina</item>
+        <item>@font/sarpanch_semibold</item>
+    </array>
+</resources>
